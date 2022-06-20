@@ -85,7 +85,7 @@
 ## 🤝🏻 &nbsp;Connect with 
 <p align="center">
 <a href="https://moazamansari.github.io/Personal-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-M.Moazam.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/moazam-ansari-065555217" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Azeem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/moazam-ansari-065555217" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Moazam-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:moazamansari.321@gmail.com"><img src="https://img.shields.io/badge/-MoazamAnsari.321@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
