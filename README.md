@@ -1,9 +1,9 @@
 # Hi there, I'm Moazam 👋
     
 ## I'm a Developer, Teacher and Researcher! 
-- 🔭 I’m currently working as ML Engineer and Full Stack Developer.
-- 🌱 I’m currently learning Competitive-coding, MERN Stack, ML.
-- 🥅 2022 Goals: MERN, ML and DL.
+- 🔭 I’m currently working as Full Stack Developer.
+- 🌱 I’m currently learning Competitive-coding, NodeJS,Htlml, Css 
+- 🥅 2022 Goals: MERN
 
 <br/>
 
